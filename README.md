@@ -1,0 +1,2 @@
+# Mini-Project---Unit-Conversion-using-HTML5-CSS-JavaScript-Structural-Elements
+This mini project is a simple web application designed for unit conversions, specifically focusing on temperature, weight, and distance. The application allows users to convert values from Celsius to Fahrenheit, kilograms to pounds, and kilometers to miles using straightforward input fields and buttons for interaction.
